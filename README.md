@@ -3,16 +3,16 @@
 
 ## ✈️🏨🌏 Features ✈️🏨🌏
 
-## Home Screen ✈️🏨🌏
+#### Home Screen ✈️🏨🌏
 ExploreX is a Travel App that offers destination options and popular hotels worldwide. It features a header section with location options, a search bar, and cards featuring popular travel spots like Antalya and Dubai. The app also provides recommendations for well-rated accommodations, such as the "Titanic Mardan Palace." The vibrant design encourages exploration, with "See All" and "View All" links for easy navigation.
 
-## Detail Screen ✈️🏨🌏
+#### Detail Screen ✈️🏨🌏
 The Detail Screen offers a detailed overview of a hotel or destination, such as The Plaza in New York, USA. It features a prominent image, location details, and a description of the hotel's reputation as a historic luxury hotel. The screen also includes a user rating, a "heart" icon, and a Proceed to Pay button, ensuring transparency and convenience in booking.
 
-## Explore Destinations ✈️🏨🌏
+#### Explore Destinations ✈️🏨🌏
 Discover popular and hidden travel spots around the world.
 
-## Itinerary Planner ✈️🏨🌏
+#### Itinerary Planner ✈️🏨🌏
 Create and manage your travel plans with ease.
 
 ## ✈️🏨🌏 Demo of Travel App ✈️🏨🌏
